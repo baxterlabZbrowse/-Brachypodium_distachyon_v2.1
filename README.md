@@ -1,6 +1,6 @@
-# Oryza_Sativa
+# -Brachypodium distachyon v2.1
 
-This repository contains the necessary files to use Oryza Sativa in [Zbrowse] (https://github.com/baxterlabZbrowse/ZBrowse).
+This repository contains the necessary files to use -Brachypodium distachyon v2.1 in [Zbrowse] (https://github.com/baxterlabZbrowse/ZBrowse).
 
 ### Requirements
 
@@ -12,9 +12,9 @@ To use this data you must have [Zbrowse] (https://github.com/baxterlabZbrowse/ZB
 
 2. Unzip the file.
 
-3. Move `oryza_sativa.csv` to the main level of your Zbrowse directory.
+3. Move `Bdistachyon_v2.1.csv` to the `annotations` folder in your Zbrowse directory.
 
-4. Move `oryza_sativa.txt` to the `organisms` folder in your Zbrowse directory.
+4. Move `Bdistachyon_v2.1.txt` to the `organisms` folder in your Zbrowse directory.
 
 5. If Zbrowse was running during this process, restart it so that the changes can take effect.
 
