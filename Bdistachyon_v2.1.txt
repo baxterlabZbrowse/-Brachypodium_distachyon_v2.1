@@ -1,0 +1,3 @@
+Purple false brome (Bdistachyon v2.1)
+1:75337810,2:59557706,3:60091105,4:48902576,5:28649086
+./annotations/Bdistachyon_v2.1.csv
