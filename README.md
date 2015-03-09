@@ -1,6 +1,6 @@
-# -Brachypodium distachyon v2.1
+# Brachypodium distachyon v2.1
 
-This repository contains the necessary files to use -Brachypodium distachyon v2.1 in [Zbrowse] (https://github.com/baxterlabZbrowse/ZBrowse).
+This repository contains the necessary files to use Brachypodium distachyon v2.1 in [Zbrowse] (https://github.com/baxterlabZbrowse/ZBrowse).
 
 ### Requirements
 
