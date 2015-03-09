@@ -20,6 +20,6 @@ To use this data you must have [Zbrowse] (https://github.com/baxterlabZbrowse/ZB
 
 ### Using the Data
 
-Oryza Sativa will now be added to your instance of ZBrowse. Most notably, it will appear 
+Brachypodium distachyon will now be added to your instance of ZBrowse. Most notably, it will appear 
 in the dropdown menu of available organisms. All that is left to do is [upload] (http://media.wix.com/ugd/52737a_2a65d0deb3bd4da2b5c0190c0de343ca.pdf)
 your GWAS data and begin the analysis.
